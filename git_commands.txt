@@ -1,0 +1,43 @@
+   1 try { . "c:\Users\hp\AppData\Local\Programs\Microsoft VS Code\8761a5560c\resources\app\out\vs\workbench\contrib\terminal\common\scr...
+   2 python practice.y                                                                                                                     
+   3 python practice1.py                                                                                                                   
+   4 ls                                                                                                                                    
+   5 rm practice1.py                                                                                                                       
+   6 ls                                                                                                                                    
+   7 ls -l                                                                                                                                 
+   8 clear                                                                                                                                 
+   9 git init                                                                                                                              
+  10 dir -a                                                                                                                                
+  11 dir                                                                                                                                   
+  12 ls -a                                                                                                                                 
+  13 ls                                                                                                                                    
+  14 clear                                                                                                                                 
+  15 git status                                                                                                                            
+  16 ls                                                                                                                                    
+  17 ls -a                                                                                                                                 
+  18 ls                                                                                                                                    
+  19 clear                                                                                                                                 
+  20 git status                                                                                                                            
+  21 ls                                                                                                                                    
+  22 git status                                                                                                                            
+  23 git status                                                                                                                            
+  24 clear                                                                                                                                 
+  25 git status                                                                                                                            
+  26 clear                                                                                                                                 
+  27 git status                                                                                                                            
+  28 git add testing.py                                                                                                                    
+  29 git status                                                                                                                            
+  30 git commit -m "added testing files"                                                                                                   
+  31 git status                                                                                                                            
+  32 ls                                                                                                                                    
+  33 ls -a                                                                                                                                 
+  34 ls -l                                                                                                                                 
+  35 dir                                                                                                                                   
+  36 clear                                                                                                                                 
+  37 rm testing.py                                                                                                                         
+  38 ls                                                                                                                                    
+  39 git status                                                                                                                            
+  40 git restore testing.py                                                                                                                
+  41 git status                                                                                                                            
+  42 clear                                                                                                                                 
+
