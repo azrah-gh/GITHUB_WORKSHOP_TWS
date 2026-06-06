@@ -41,3 +41,11 @@
   41 git status                                                                                                                            
   42 clear                                                                                                                                 
 
+day3
+
+   1 try { . "c:\Users\hp\AppData\Local\Programs\Microsoft VS Code\6a44c352bd\resources\app\out\vs\workbench\contrib\terminal\comm...
+   2 history                                                                                                                         
+   3 clear                                                                                                                           
+   4 git status                                                                                                                      
+
+
