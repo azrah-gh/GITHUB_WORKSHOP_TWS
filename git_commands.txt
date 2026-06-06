@@ -50,6 +50,8 @@ day3
 
 demo to show changes done in file from github repo to be saved in local system    
 
+
+branches commands
   13 git status                                                                                                                      
   14 git push origin master                                                                                                          
   15 git status                                                                                                                      
