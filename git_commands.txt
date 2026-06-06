@@ -68,3 +68,28 @@ branches commands
   27 git status                                                                                                                      
   28 ls                                                                                                                                                                                                                                                        
   31 git history                                                                                                                     
+
+git status                                                                                                                      
+  35 git add  git_commands.txt                                                                                                       
+  36 git status                                                                                                                      
+  37 git commit -m "branch changes"                                                                                                  
+  38 git status                                                                                                                      
+  39 git push origin master                                                                                                          
+  40 git status                                                                                                                      
+  41 git pull origin master                                                                                                          
+  42 clear                                                                                                                           
+  43 git log          !!!!!!!! enter "q" to exit !!!!!!!                                                                                                                 
+  44 git log --oneline                                                                                                               
+  45 git status                                                                                                                      
+  46 git switch dev                                                                                                                  
+  47 git log --oneline                                                                                                               
+  48 git push origin dev                                                                                                             
+  49 git status                                                                                                                      
+  50 git branch                                                                                                                      
+  51 ls                                                                                                                              
+  52 git branch                                                                                                                      
+  53 git switch master                                                                                                               
+  54 git status                                                                                                                      
+  55 git pull origin master                                                                                                          
+  56 git status                                                                                                                      
+  57 clear     
